@@ -8,3 +8,10 @@
 6. 생성된PR을 보고 다른 사람들에게 자유롭게 feedback을 하세요.
 
 PR은 매주 일요일 저녁에 Main Branch로 Merge 됩니다
+
+### 커밋 메시지 형식
+[문제집 이름] 문제이름 / 난이도(solved.ac 티어) 
+터미널 
+```
+git commit -m "[입출력] Hello World / 브론즈 5 "
+```
