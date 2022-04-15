@@ -13,6 +13,6 @@ PR은 매주 일요일 저녁에 Main Branch로 Merge 됩니다
 [문제집 이름] 문제이름 / 난이도(solved.ac 티어) 
 터미널 
 ```
-git commit -m "[입출력] Hello World / 브론즈 5 "
+git commit -m "[입출력] Hello World / Bronze 5 "
 ```
 ### 참가자들
